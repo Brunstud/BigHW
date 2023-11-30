@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="cmd_console_tools.h" />
+    <ClInclude Include="cmd_hdc_tools.h" />
+    <ClInclude Include="com_console.h" />
+    <ClInclude Include="lib_thdc_tools.h" />
+    <ClInclude Include="menu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

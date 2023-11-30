@@ -18,22 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\common\cmd_console_tools.cpp" />
-    <ClCompile Include="..\common\menu.cpp" />
-    <ClCompile Include="90-01-b1-hanoi_main.cpp" />
-    <ClCompile Include="90-01-b1-hanoi_multiple_solutions.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\include\cmd_console_tools.h" />
-    <ClInclude Include="..\include\menu.h" />
-    <ClInclude Include="90-01-b1-hanoi.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9699bc08-56c8-4bab-b148-8d2ed158d100}</ProjectGuid>
-    <RootNamespace>My9001b1</RootNamespace>
+    <ProjectGuid>{1ceb9329-9baa-4626-80ee-09df92525db6}</ProjectGuid>
+    <RootNamespace>My9002b2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -81,19 +70,6 @@
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LinkIncremental>true</LinkIncremental>
-    <IncludePath>$(IncludePath)</IncludePath>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <LinkIncremental>false</LinkIncremental>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LinkIncremental>true</LinkIncremental>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <LinkIncremental>false</LinkIncremental>
-  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
@@ -150,6 +126,26 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\cmd_console_tools.h" />
+    <ClInclude Include="..\include\cmd_hdc_tools.h" />
+    <ClInclude Include="..\include\lib_thdc_tools.h" />
+    <ClInclude Include="hdc_student_works.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\common\cmd_console_tools.cpp" />
+    <ClCompile Include="..\common\cmd_hdc_tools.cpp" />
+    <ClCompile Include="2150244-黄隽阳-hdc_cartoon.cpp" />
+    <ClCompile Include="2150244-黄隽阳-hdc_math.cpp" />
+    <ClCompile Include="hdc_cartoon.cpp" />
+    <ClCompile Include="hdc_math.cpp" />
+    <ClCompile Include="test_cartoon.cpp" />
+    <ClCompile Include="test_draw_peppapig.cpp" />
+    <ClCompile Include="test_hdc.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\lib\lib_thdc_tools.lib" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

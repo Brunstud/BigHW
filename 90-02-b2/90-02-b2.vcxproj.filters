@@ -15,40 +15,51 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="90-01-b2-main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="90-01-b2-base.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="90-01-b2-console.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="90-01-b2-tools.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\common\cmd_console_tools.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\common\menu.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\common\com_console.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="90-01-b2.h">
+    <ClInclude Include="hdc_student_works.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="..\include\cmd_console_tools.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\menu.h">
+    <ClInclude Include="..\include\cmd_hdc_tools.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\com_console.h">
+    <ClInclude Include="..\include\lib_thdc_tools.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2150244-黄隽阳-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2150244-黄隽阳-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_draw_peppapig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_hdc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\cmd_console_tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\cmd_hdc_tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\lib\lib_thdc_tools.lib">
+      <Filter>资源文件</Filter>
+    </Library>
   </ItemGroup>
 </Project>

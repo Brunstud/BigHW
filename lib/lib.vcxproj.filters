@@ -15,20 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cmd_console_tools.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="menu.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="com_console.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="cmd_hdc_tools.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="lib_thdc_tools.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <Library Include="lib_thdc_tools.lib">
+      <Filter>资源文件</Filter>
+    </Library>
   </ItemGroup>
 </Project>
