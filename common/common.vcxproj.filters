@@ -27,5 +27,14 @@
     <ClCompile Include="cmd_hdc_tools.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="bitmap_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class_aat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class_crt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
