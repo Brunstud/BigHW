@@ -1,0 +1,5 @@
+/* 2250676 ’≈ºÃ º∆∞Œ  */
+#include <iostream>
+#include <cstdio>
+#include <conio.h>
+#include<conio.h>

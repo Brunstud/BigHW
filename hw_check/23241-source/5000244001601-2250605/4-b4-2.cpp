@@ -1,0 +1,5 @@
+/* 2250605 µçÆø Ñî¼Ãçâ */
+#include <iostream>
+#include <cstdio>
+#include <conio.h>
+#include <time.h>

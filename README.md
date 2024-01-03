@@ -7,6 +7,7 @@ test_args_analyse_tools：主函数指令读取工具
 test-cct：测试cct函数
 txt_compare：文件比较工具
 bmp_subtitles：bmp文件添加字幕
+hw_check：作业检查程序
 
 公共文件：
 include：公共头文件

@@ -1,0 +1,5 @@
+/* 2151187 ¼Æ¿Æ Ô¬Ö®µä */
+/*2152988 ÑîâýÃú  2251924 êÌ¾°ºÀ 2150792 Å£Â»Ñô 2252210 º«Ä½·Ç 2253298 ÐÜ×Ó¾û*/
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h>

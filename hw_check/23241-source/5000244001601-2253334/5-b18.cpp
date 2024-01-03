@@ -1,0 +1,5 @@
+/* 2253334 º∆ø∆ ’≈’Ò”Ó */
+#include <iostream>
+#include <cstring>
+#include <string.h>
+#include <stdbool.h>

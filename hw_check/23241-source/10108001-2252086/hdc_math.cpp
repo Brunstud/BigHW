@@ -1,0 +1,5 @@
+/* 2252086 Ëï¾¸êÝ ¼Æ¿Æ */
+#include "../include/cmd_hdc_tools.h"
+#include <iostream>
+#include <cmath>
+#include<windows.h>

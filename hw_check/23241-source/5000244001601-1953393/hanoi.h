@@ -1,0 +1,5 @@
+/* Èí¹¤ 1953393 ÁõÏþ³½ */
+#pragma once
+
+#define TOWER_MAX_HEIGHT 10
+#define MAX_RUN_DELAY 5

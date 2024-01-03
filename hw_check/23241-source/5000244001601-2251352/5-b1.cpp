@@ -1,0 +1,5 @@
+/*2251352 Èí¹¤ Ðì³Âð©*/
+#include <iostream>
+#define MAX_SIZE 20
+using namespace std;
+void insert(int a[], int count, int k)

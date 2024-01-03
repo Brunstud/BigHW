@@ -1,0 +1,5 @@
+/*2251352 Ðì³Âð© Èí¼þ*/
+#include<iostream>
+using namespace std;
+int main()
+{

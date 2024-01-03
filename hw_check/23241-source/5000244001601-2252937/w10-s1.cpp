@@ -1,0 +1,5 @@
+//2252937 Í¨ÐÅ Áú¾¢½­ 
+#include <iostream>
+using namespace std;
+void convertToBase(int decimal, int base) {
+	if(decimal>0){

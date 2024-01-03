@@ -1,0 +1,5 @@
+/* 2251093 »Ìπ§ ∑ÎŒ∞∫Ω */
+#include<iostream>
+#include<cmath>
+#include<iomanip>
+using namespace std;

@@ -1,0 +1,5 @@
+/*2253204 ╪ф©ф ишау╡╘ */
+#include <iostream>
+using namespace std;
+
+const int ROW = 2;

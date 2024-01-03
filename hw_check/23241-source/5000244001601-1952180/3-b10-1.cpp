@@ -1,0 +1,5 @@
+// 1952180 AI Õı”÷∫Ã
+
+#include <iostream>
+#include <iomanip>
+#include <cstdio>

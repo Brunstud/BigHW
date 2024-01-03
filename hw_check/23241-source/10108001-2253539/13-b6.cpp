@@ -1,0 +1,5 @@
+/* 2253539 Íõì½ì» ÐÅ°² */
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include <cstdio>
+#include <cstring>

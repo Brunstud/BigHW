@@ -1,0 +1,5 @@
+/*2251875 ³ÂÏþÀ¤ Èí¹¤*/
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<string.h>
+void swap(int* xp, int* yp)

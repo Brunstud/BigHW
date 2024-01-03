@@ -1,0 +1,5 @@
+/* 2150228 ÷ÏÍ¿’‹ »Ìπ§ */
+#include<iostream>
+#include<iomanip>
+#include<windows.h>
+#include<conio.h>

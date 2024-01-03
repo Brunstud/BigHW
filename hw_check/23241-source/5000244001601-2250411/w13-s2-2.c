@@ -1,0 +1,5 @@
+/* ²â»æ ÁÖ¿¡¼ª 2250411 */
+#include <stdio.h>
+
+#define	N	81
+

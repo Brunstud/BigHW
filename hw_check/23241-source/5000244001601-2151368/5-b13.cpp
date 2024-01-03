@@ -1,0 +1,5 @@
+/* 2151368 AI ÕÅ¹ú»ª */
+#include <iostream>
+#include <time.h>
+#include <windows.h>
+#define X 10

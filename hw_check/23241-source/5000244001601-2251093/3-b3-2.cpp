@@ -1,0 +1,5 @@
+/* 2251093 »Ìπ§ ∑ÎŒ∞∫Ω */
+#include<iostream>
+using namespace std;
+#define ll long long
+int main()

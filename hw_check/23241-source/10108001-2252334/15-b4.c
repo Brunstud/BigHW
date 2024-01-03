@@ -1,0 +1,5 @@
+/*2252334 кОь╧╨╜ ╪ф©ф*/
+/* 2254325 одтояО 2252935 аж╪ядщ 2251206 ╥КсПп╬ 2253102 бЁ╨фсН 2251925 я╕вжНё*/
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<string.h>

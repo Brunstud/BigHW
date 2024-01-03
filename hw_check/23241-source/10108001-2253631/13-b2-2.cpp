@@ -1,0 +1,5 @@
+/*2253631 —Ó‘ÛÍª –≈∞≤*/
+#include<iostream>
+#include<fstream>
+using namespace std;
+

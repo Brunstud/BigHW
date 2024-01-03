@@ -1,0 +1,5 @@
+/*2252935 ¼Æ¿Æ ÁÖ¼ÑÄÝ*/
+#include<iostream>
+#include<iomanip>
+#include<cstring>
+using namespace std;

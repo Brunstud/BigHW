@@ -1,0 +1,5 @@
+/*2251597 Èí¹¤ Î¤èªîÚ*/
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#define CENGSHU 10
+int bu = 1;

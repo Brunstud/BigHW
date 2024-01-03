@@ -1,0 +1,5 @@
+/*2151273 ≈À‘¥ –≈∞≤*/
+#include<iostream>
+#include<cstring>
+using namespace std;
+

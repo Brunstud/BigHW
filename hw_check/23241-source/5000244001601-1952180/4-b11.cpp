@@ -1,0 +1,5 @@
+/* 1952180 Õı”÷∫Ã AI */
+#include <iostream>
+#include <iomanip>
+#include <cstdio>
+using namespace std;

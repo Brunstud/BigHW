@@ -1,0 +1,5 @@
+/* 2253716 Å·¼ÑÒô ´óÊý¾Ý */
+#include <Windows.h>
+#include <cmath>
+#include <iostream>
+#include "../include/cmd_hdc_tools.h"

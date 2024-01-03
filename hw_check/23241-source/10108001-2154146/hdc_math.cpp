@@ -1,0 +1,5 @@
+/* 2154146 Îâ½ðÐù ¼Æ¿Æ1°à */
+#include "../include/cmd_hdc_tools.h"
+#include <iostream>
+#include <Windows.h>
+using namespace std;

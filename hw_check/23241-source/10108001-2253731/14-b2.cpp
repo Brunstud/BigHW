@@ -1,0 +1,5 @@
+/*2253731 ¼Æ¿Æ ÕÅð©ÇÕ*/
+#include <iostream>
+#include <iomanip>
+#include <cstdio>
+#include <cstring>

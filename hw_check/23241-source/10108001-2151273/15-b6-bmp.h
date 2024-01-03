@@ -1,0 +1,5 @@
+/* 2151273 ≈À‘¥ –≈∞≤*/
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <vector>

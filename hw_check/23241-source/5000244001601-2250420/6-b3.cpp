@@ -1,0 +1,5 @@
+/* 2250420 ³Â¾ý Èí¹¤ */
+#include <iostream>
+using namespace std;
+
+#define  N  34

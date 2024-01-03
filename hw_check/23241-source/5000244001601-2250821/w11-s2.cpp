@@ -1,0 +1,5 @@
+/* 2250821 น๙ฦฝฮฐ ศํนค */
+#include <iostream>
+using namespace std;
+
+int main()

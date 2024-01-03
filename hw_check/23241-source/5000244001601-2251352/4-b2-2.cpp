@@ -1,0 +1,5 @@
+/*2251352 Ðì³Âð© Èí¹¤*/
+#include<iostream>
+using namespace std;
+
+int zeller(int y, int m, int d)

@@ -1,0 +1,6 @@
+%PDF-1.5
+%«Ïè¢
+%%Invocation: gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dAutoRotatePages=/None -dColorConversionStrategy=/LeaveColorUnchanged -dDetectDuplicateImages=true -dSubsetFonts=true -dCompressFonts=true -dColorImageDownsampleThreshold=1
+%%+ -dGrayImageDownsampleThreshold=1 -dMonoImageDownsampleThreshold=1 -dPDFSETTINGS=/ebook -sOutputFile=? ? ? ? -f ?
+5 0 obj
+<</Length 6 0 R/Filter /FlateDeco

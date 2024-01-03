@@ -1,0 +1,5 @@
+/* 2053047 ´÷öÎ»´ ÐÅ°² */
+#include <stdio.h>
+
+int main()
+{

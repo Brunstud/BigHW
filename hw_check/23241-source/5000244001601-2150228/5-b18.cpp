@@ -1,0 +1,5 @@
+/*2150228 ÷ÏÍ¿’‹ »Ìπ§*/ 
+#include<iostream>
+#include<conio.h>
+using namespace std;
+

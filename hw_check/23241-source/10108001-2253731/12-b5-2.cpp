@@ -1,0 +1,5 @@
+/* ¼Æ¿Æ 2253731 ÕÅð©ÇÕ */
+#include <iostream>
+#include <iomanip>
+using namespace std;
+

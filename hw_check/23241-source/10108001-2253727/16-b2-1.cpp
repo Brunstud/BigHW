@@ -1,0 +1,5 @@
+/* 2253727 º∆ø∆ Õıﬁ»Ω› */
+#include <iostream>
+using namespace std;
+
+const int ROW = 2;

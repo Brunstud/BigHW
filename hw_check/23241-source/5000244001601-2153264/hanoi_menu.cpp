@@ -1,0 +1,5 @@
+/* AI 2153264 »ŒÀºΩ£ */
+#include <iostream>
+#include "cmd_console_tools.h"
+using namespace std;
+/* ----------------------------------------------------------------------------------

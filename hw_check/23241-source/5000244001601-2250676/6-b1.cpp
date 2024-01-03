@@ -1,0 +1,5 @@
+/* 2250676 ’≈ºÃ º∆∞Œ */
+#include <iostream>
+#include <ctype.h>
+using namespace std;
+

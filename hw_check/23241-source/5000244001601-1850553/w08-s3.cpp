@@ -1,0 +1,5 @@
+/* 1850553 µÁ–≈ Õı‘Û≈Ù */
+#include <iostream>
+#include <iomanip>
+using namespace std;
+

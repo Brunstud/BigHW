@@ -1,0 +1,5 @@
+/* 2251924 êÌ¾°ºÀ ¼Æ¿Æ */
+#include <iostream>
+#include<math.h>
+using namespace std;
+

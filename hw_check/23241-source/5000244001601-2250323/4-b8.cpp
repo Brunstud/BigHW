@@ -1,0 +1,5 @@
+/* 2250323 ∫Œ •Ω‡  Õ®–≈ */
+#include <iostream>
+using namespace std;
+
+

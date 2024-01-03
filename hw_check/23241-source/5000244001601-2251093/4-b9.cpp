@@ -1,0 +1,5 @@
+/* 2251093 ∑ÎŒ∞∫Ω »Ìπ§ */
+#include <iostream>
+#include <iomanip>
+#include <Windows.h>
+using namespace std;

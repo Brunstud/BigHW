@@ -1,0 +1,5 @@
+/* 2250676 ’≈ºÃ º∆∞Œ */
+#include <stdio.h>
+#include <conio.h>
+#include <time.h>
+#include <windows.h>

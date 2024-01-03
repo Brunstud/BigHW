@@ -1,0 +1,5 @@
+//2252750 Èí¹¤ ÕÔ×¿±ù
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+const int A_SIZE = 1000;

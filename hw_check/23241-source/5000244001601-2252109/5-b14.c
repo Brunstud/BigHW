@@ -1,0 +1,5 @@
+/* 2252109 计科 段威呈 */
+/* 2250898 陆思宇 2251174 付沐鑫 2252750 赵卓冰 2253711 钟沛橙 2253350 阳之原 2250323 何圣洁 */
+#define _CRT_SECURE_NO_WARNINGS
+#define MAX_COLUMN 26
+#define MAX_ROW 10

@@ -1,0 +1,5 @@
+/* 2253909 »Ìπ§ ’≈∫ÍÍ  */
+#include <iostream>
+using namespace std;
+
+void input(string id[], string name[], int score[]) {

@@ -1,0 +1,5 @@
+/* 2154270 ÕÔ³þ¾û ´óÊý¾Ý */
+#define _CRT_SECURE_NO_WARNINGS
+#include "17-b1-TStringAdv.h"
+#include <cstring>
+#include <algorithm>

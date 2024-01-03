@@ -1,0 +1,5 @@
+/* 2151368 ÕÅ¹ú»ª AI */
+#include <iostream>
+#include <cstdio>
+#include <conio.h>
+#include <time.h>

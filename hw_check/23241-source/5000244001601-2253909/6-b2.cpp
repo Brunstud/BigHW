@@ -1,0 +1,5 @@
+/* 2253909 »Ìπ§ ’≈∫ÍÍ  */
+#include <iostream>
+using namespace std;
+
+bool isPalindromic(char* str) {

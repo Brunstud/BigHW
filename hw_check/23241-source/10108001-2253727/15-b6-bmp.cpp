@@ -1,0 +1,5 @@
+/*2253727 º∆ø∆ Õıﬁ»Ω›*/
+#include<iostream>
+#include <conio.h>
+#include<fstream>
+#include<iomanip>

@@ -1,0 +1,5 @@
+/* 2250397 «ÿ≥… »Ìπ§ */
+#include<iostream>
+#include"cmd_console_tools.h"
+#include"hanoi.h"
+using namespace std;

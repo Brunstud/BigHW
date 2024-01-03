@@ -1,0 +1,5 @@
+/* ¼Æ¿Æ 2154146 Îâ½ðÐù */
+
+#pragma once
+
+#define MAX_WIDTH 768

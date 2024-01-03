@@ -1,0 +1,5 @@
+/* 2254298 ´óÊý¾Ý ·¶äì */
+#include<iostream>
+#include<fstream>
+using namespace std;
+#define MAXINFOLENGTH 20
